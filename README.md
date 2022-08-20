@@ -5,6 +5,7 @@
 - Research Line: Advanced Interaction 2015
 - Author: Orion Gorrão Moreira Campos
 - GitHub: [https://github.com/orion-campos/Touch_Media](https://github.com/orion-campos/Touch_Media)
+- Thesis book: {https://issuu.com/home/published/orion_booklet](https://issuu.com/home/published/orion_booklet)
 - Video 1: [Touch Media - Electronic Development](https://vimeo.com/manage/videos/140458246)
 - Video 2: [Touch Media - 3D Printing Development](https://vimeo.com/manage/videos/140481266)
 
@@ -107,3 +108,4 @@ There are more stable already made shields, but their price range between 40€ 
 The ideal way of communication would be made the connection through internet, which would achieve the desired effect of creating a functional new way of communication other than the cellphones and other common visual devices that are available today.<br>
 Other than this, one of the main points to emphasize is that although this project aims to create a new way of communication, it would never be the same as the existing way of communications, which are based on the written language and speak language, because those forms of languages are based on different senses, as the vision and hearing sense. This project demands to develop a language in order to communicate through the touch sense. There would not be a substitute for a twitter send from a cellphone, or written message telling specific information. Other than this, the information sent could be of a specific feeling such as love, hate, or gratitude.<br>
 The point that could be develop from this project, but demand years of research are the areas that should be excited on the body in order to create this set of desired emotions. This would demand a better research on the physical part of the motors and also a biological, medical and psychological team.<br>
+- Thesis book: {https://issuu.com/home/published/orion_booklet](https://issuu.com/home/published/orion_booklet)
