@@ -5,7 +5,7 @@
 - Research Line: Advanced Interaction 2015
 - Author: Orion Gorrão Moreira Campos
 - GitHub: [https://github.com/orion-campos/Touch_Media](https://github.com/orion-campos/Touch_Media)
-- Thesis book: {https://issuu.com/home/published/orion_booklet](https://issuu.com/home/published/orion_booklet)
+- Thesis book: [https://issuu.com/home/published/orion_booklet](https://issuu.com/home/published/orion_booklet)
 - Video 1: [Touch Media - Electronic Development](https://vimeo.com/manage/videos/140458246)
 - Video 2: [Touch Media - 3D Printing Development](https://vimeo.com/manage/videos/140481266)
 
